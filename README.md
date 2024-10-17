@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🖥 Não atuo na área no momento<br>📚 Aprendendo no momento JavaScript<br>🎓Cursando Sistemas da informação 5/8</p>
+<p align="left">🖥 Estou em busca de atuar na área de programação<br>📚 Aprendendo no momento JavaScript / MYSQL<br>🎓Cursando Sistemas da informação 5/8</p>
 
 ###
 
